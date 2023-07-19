@@ -1,5 +1,4 @@
 # River network problem (ancestors in GraphFrames)
----
 
 Suppose you have a network of rivers shown in the figure below.
 
@@ -14,7 +13,6 @@ In that case we can turn to [Apache Spark](https://spark.apache.org/) and use [G
 Open the notebook to see the example!
 
 ## License
----
 
 Copyright 2023 Databricks, Inc
 
