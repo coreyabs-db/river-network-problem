@@ -18,7 +18,6 @@
 # MAGIC ---------------------------------------------------------------------->
 # MAGIC
 # MAGIC # River network problem (ancestors in GraphFrames)
-# MAGIC ---
 # MAGIC
 # MAGIC Suppose you have a network of rivers shown in the figure below.
 # MAGIC
